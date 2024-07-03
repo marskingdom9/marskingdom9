@@ -2,6 +2,7 @@
 
 Hello! 
 My name is Mayank Singh & I am from Sammamish, WA.
+
 I am currently studying Computer Engineering Technology at Purdue University in pursuit of my BS as an undergraduate.
 
 😄 Pronouns: He/Him
