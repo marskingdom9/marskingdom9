@@ -16,6 +16,7 @@ I am currently studying Computer Engineering Technology at Purdue University in 
 🤔 I’m looking for help with understanding how to find interesting opportunities & projects to collaborate on GitHub.
 
 📫 How to reach me: 
+
 Email > mayank_singh09@hotmail.com
 
 Phone Number > (425) 435 9740
