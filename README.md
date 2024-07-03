@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**marskingdom9/marskingdom9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello! 
 My name is Mayank Singh & I am from Sammamish, WA. 
 I am currently studying Computer Engineering Technology in pursuit of my BS as an undergraduate.
@@ -20,4 +17,8 @@ Email > mayank_singh09@hotmail.com
 Phone Number > (425) 435 9740
 
 ⚡ Fun fact: I was born in Hong Kong
+
+<!--
+**marskingdom9/marskingdom9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
