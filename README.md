@@ -8,9 +8,11 @@ I am currently studying Computer Engineering Technology at Purdue University in 
 😄 Pronouns: He/Him
 
 🔭 I’m currently working on learning about how to prepare myself career-wise after college
+
 🌱 I’m learning how to integrate GitHub into my everyday lifestyle.
 
 👯 I’m looking to collaborate on projects that will extend my learning in AI & ML
+
 🤔 I’m looking for help with understanding how to find interesting opportunities & projects to collaborate on GitHub
 
 📫 How to reach me: 
