@@ -7,7 +7,7 @@ I am currently studying Computer Engineering Technology at Purdue University in 
 
 🔭 Currently, I’m working on learning about how to prepare myself career-wise after college.
 
-🌱 I’m learning how to integrate GitHub into my everyday lifestyle.
+🌱 I’m learning how to integrate GitHub into my everyday lifestyle. 
 
 👯 I’m looking to collaborate on projects that will extend my learning in AI & ML.
 
@@ -16,7 +16,6 @@ I am currently studying Computer Engineering Technology at Purdue University in 
 📫 How to reach me: 
 
 Email > mayank_singh09@hotmail.com
-
 Phone Number > (425) 435 9740
 
 ⚡ Fun fact: I was born in Hong Kong despite having roots from India.
