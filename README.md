@@ -16,6 +16,7 @@ I am currently studying Computer Engineering Technology at Purdue University in 
 📫 How to reach me: 
 
 Email > mayank_singh09@hotmail.com
+
 Phone Number > (425) 435 9740
 
 ⚡ Fun fact: I was born in Hong Kong despite having roots from India.
